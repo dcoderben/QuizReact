@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "What is the largest planet in our solar system1?",
+      "answers": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "What is the largest planet in our solar system?2",
+      "answers": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "What is the largest planet in our solar system?3",
+      "answers": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "correctAnswer": "Jupiter"
+    }
+]
